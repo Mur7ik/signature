@@ -10,7 +10,7 @@
 	// --------------------------------------------------------------------------------------------
 	
 	$STEAM_APIKEY = "HERE-MUST-BE-YOUR-STEAM-API-KEY"; // Here insert your Steam Web Api Key - get from here https://steamcommunity.com/dev/apikey
-	$STEAM_PROFILEID = "76561198037068779"; // Here insert your steamID64
+	$STEAM_PROFILEID = "fatal-art"; // Here insert your steamID64
 	$error = null;
 	$STEAM_BASEURL = "api.steampowered.com";
 	$STEAM_FORMAT = "json";
